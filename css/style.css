@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("../assets/9174322_6261.jpg") repeat 0, 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.backgorund_1 {
+    background-color: rgb(230 230 230 / 10%);
+}
+
+.backgorund_2 {
+    background-color: #ffffffcf;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+footer {
+    margin-top: auto;
+}
